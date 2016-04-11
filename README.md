@@ -12,3 +12,5 @@ I created SSH key, but the problem not with it. Git responded me that there are 
 But clone via HTTPS works correctly.
 
 And one more thing.
+
+Third more thing.
