@@ -10,3 +10,5 @@ I'll be happy if all be worked very well.
 I have found that "git clone" is not work on my PC. 
 I created SSH key, but the problem not with it. Git responded me that there are not repository, that I wrote.
 But clone via HTTPS works correctly.
+
+And one more thing.
